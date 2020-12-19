@@ -1,1 +1,2 @@
-# PolarBot
+# PolarBot :D
+A discord bot
