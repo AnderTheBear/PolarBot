@@ -1,2 +1,4 @@
 # PolarBot :D
-A discord bot
+##
+###
+Discord Bot
