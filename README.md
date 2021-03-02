@@ -1,4 +1,2 @@
 # PolarBot :D
-##
-###
 Discord Bot
